@@ -33,8 +33,7 @@ $ sudo docker run hello-world
 
 ```
 
-## Apache Spark on Docker
-[Apache Spark on Docker](https://github.com/sequenceiq/docker-spark#apache-spark-on-docker)
+## [Apache Spark on Docker](https://github.com/sequenceiq/docker-spark#apache-spark-on-docker)
 
 ```bash
 $ sudo docker pull sequenceiq/spark:1.6.0
