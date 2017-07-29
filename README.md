@@ -1,6 +1,6 @@
 # spark-docker
 
-## install docker on docker
+## [install docker on docker](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-using-the-repository)
 
 ```bash
 $ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
@@ -12,7 +12,7 @@ $ sudo systemctl status docker
 
 ```
 
-## install docker on centos
+## [install docker on centos](https://docs.docker.com/engine/installation/linux/docker-ce/centos/)
 
 ```bash
 $ sudo yum-config-manager \
